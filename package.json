@@ -1,0 +1,14 @@
+{
+  "name": "akarin",
+  "version": "0.0.0",
+  "description": "receive server sent event from url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yumina Piz",
+  "license": "MIT",
+  "dependencies": {
+    "mimelib": "^0.3.0"
+  }
+}
